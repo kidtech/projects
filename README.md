@@ -7,3 +7,7 @@
 * RGB LEDs (piano type thing)
 * LED logo patch/pin
 
+## Things we need
+
+* Switches
+* Batteries
