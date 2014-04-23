@@ -4,6 +4,8 @@
 ### Goal
 Learn basic logic and programming skills by commanding Warriors to avoid Archers, Blobs, and other monsters... oh - and a wizard!
 
+### Prerequisites
+* Kids need to be able to read at about a 1st grade level
 
 ### Preparation
 * Navigate your browser to [the hosted version of Ruby Warrior][hosted_ruby_warrior]
@@ -15,7 +17,7 @@ _Note: We know this works with Chrome and Safari - your mileage may very with In
 
 The Ruby Warrior web site/application will guide you through each step, giving you hints along the way.  We've provided some hints of our own to help you as well.
 
-### Level 1 
+### Level 1
 
 Here we see things like `class Player` and `def play_turn(warrior)`.  We can ignore `class Player` for now, but those `end`'s down at the bottom have to match up.
 
