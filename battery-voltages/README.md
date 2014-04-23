@@ -1,8 +1,7 @@
 
 # Circuits, Voltage Light
 
-
-### Description
+### Goal
 This center is intended to offer a simple way to recognize a circuit and flow
 of electricity while also learning about voltage.
 
@@ -12,6 +11,8 @@ of electricity while also learning about voltage.
 as AA, D, 9V, 2.5w watch, etc.
 * 2.5-3v LED
 * Labels for each battery
+
+## Steps to follow
 
 ### Part 1 - Which battery is more powerful
 Spread a few different types of batteries (AA, D, 9V, 2.5w watch battery, etc)
