@@ -1,4 +1,9 @@
-**Ideas**
+## Projects
+
+* [Voltage and Electricity](./battery-voltages)
+* [Programming and Logic with Ruby Warrior](./ruby-warrior)
+
+## Ideas
 
 * Build flashlight (pvc, etc)
 * Build remote control car
