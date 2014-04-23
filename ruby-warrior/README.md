@@ -15,7 +15,8 @@ _Note: We know this works with Chrome and Safari - your mileage may very with In
 
 The Ruby Warrior web site/application will guide you through each step, giving you hints along the way.  We've provided some hints of our own to help you as well.
 
-### Level 1
+### Level 1 
+
 Here we see things like `class Player` and `def play_turn(warrior)`.  We can ignore `class Player` for now, but those `end`'s down at the bottom have to match up.
 
 `def play_turn` is a method or function.  When you click "Run!", the website is going to _run_ (get it!?) the stuff inside over and over.  `warrior` represents your sword carrying soldier.  You will command him by sending messages like `walk!` and asking him questions in the `# cool code goes here` space.
@@ -29,6 +30,8 @@ class Player
   end
 end
 ```
+
+**[Full solution to level 1](./level_1.rb)**
 
 ### Level 2
 Now we're on to asking our warrior questions and doing something based on the response.  Questions usually and with a '?'.
@@ -49,8 +52,14 @@ class Player
 end
 ```
 
+**[Full solution to level 2](./level_2.rb)**
+
 ### Level 3 and Beyond
-You've got the basics now, but there's plenty to learn.  To help you continue [we've published answers to each level][answers_gist].
+You've got the basics now, but there's plenty to learn.  To help you when you get stuck, take a look at these solutions:
+
+* **[Full solution to level 3](./level_3.rb)**
+* **[Full solution to level 4](./level_4.rb)**
+* **[Full solution to level 5](./level_5.rb)**
 
 [hosted_ruby_warrior]: https://www.bloc.io/ruby-warrior/#/
 [answers_gist]: https://gist.github.com/robtarr/11226529
