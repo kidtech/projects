@@ -8,6 +8,7 @@
 * Three wires
 * Switch
 * Construction Paper
+* Plastic Wrap
 
 ## Steps
 * Tape batteries together
@@ -17,4 +18,8 @@
 * Connect `+` battery to `+` of LED
 * Connect `-` battery to switch
 * Connect `-` LED to switch
+* Make a paper & foil cone
+* Place cone over LED to ridge and attach
+* Wrap up the flashlight body with paper
+* Tape plastic wrap over top
 
